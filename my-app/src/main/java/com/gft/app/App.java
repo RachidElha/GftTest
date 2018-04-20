@@ -1,4 +1,4 @@
-package com.gft.test;
+package com.gft.app;
 
 /**
  * Hello world!
