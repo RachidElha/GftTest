@@ -161,7 +161,7 @@ under the License.
       <name>Artifactory</name>
       <url>http://DEPC008647.gft.com:8090/artifactory/libs-snapshot-local/</url>
     </mirror>
-    
+
   </mirrors>
 
   <!-- profiles
